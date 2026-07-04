@@ -12,7 +12,7 @@ Built for Teachers, Students, Developers and Teams.
 
 ## Overview
 
-Canvas Studio is a modern, open-source infinite whiteboard designed for online teaching, note-taking, diagramming, brainstorming, and collaboration.
+SketchBoard-Pro is a modern, open-source infinite whiteboard designed for online teaching, note-taking, diagramming, brainstorming, and collaboration.
 
 The goal of this project is to provide a fast, lightweight, extensible alternative to commercial whiteboard software while remaining fully open source.
 
@@ -109,7 +109,7 @@ styles/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/canvas-studio.git
+https://github.com/ParthChittalwar/SketchBoard-Pro
 ```
 
 Install dependencies
