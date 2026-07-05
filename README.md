@@ -103,6 +103,7 @@ styles/
 ```
 
 ---
+---
 
 ## Getting Started
 
@@ -136,6 +137,7 @@ Preview
 npm run preview
 ```
 
+---
 ---
 
 ## Deployment
