@@ -2,7 +2,7 @@
 
 <p align="center">
 
-Modern • Open Source • Infinite Whiteboard
+Modern • Open Source • Infinite Whiteboard 
 
 Built for Teachers, Students, Developers and Teams.
 
@@ -200,7 +200,7 @@ If you find this project useful, consider supporting its development through the
 
 ## Developer
 
-Developed by **Parth Chittalwar**
+Developed by **Parth Santosh Chittalwar**
 
 GitHub • LinkedIn • Portfolio • YouTube • Instagram • X
 
