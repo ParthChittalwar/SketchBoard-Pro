@@ -200,7 +200,7 @@ If you find this project useful, consider supporting its development through the
 
 ## Developer
 
-Developed by **Parth Santosh Chittalwar**
+Developed by **Parth Chittalwar**
 
 GitHub • LinkedIn • Portfolio • YouTube • Instagram • X
 
